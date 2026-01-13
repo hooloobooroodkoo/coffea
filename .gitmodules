@@ -1,3 +1,0 @@
-[submodule "src/coffea/workflow"]
-	path = src/coffea/workflow
-	url = https://github.com/hooloobooroodkoo/coffea-workflow.git
